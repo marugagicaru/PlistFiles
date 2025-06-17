@@ -9,7 +9,7 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://github.com/lscs3/lscs3apps/raw/refs/heads/main/Esign_CENTRAL_POWER_INFORMATION_TECHNOLOGY_COMPANY_CENTRAL_POWER_CORPORATION.ipa</string>
+      <string>https://github.com/lscs3/lscs3apps/raw/refs/heads/main/ESign_CENTRAL_POWER.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -23,7 +23,7 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>p3.xyz.yyyue.esign</string>
+     <string>lscsApp2</string>
      <key>bundle-version</key>
      <string>1.0.0</string>
      <key>kind</key>
